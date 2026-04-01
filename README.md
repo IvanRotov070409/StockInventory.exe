@@ -1,4 +1,5 @@
 # При возникновении ошибки
 
-**Если у вас возникла ошибка при запуске приложения, то вы можете скачать приложение с другой ссылки:**
-* [Полная версия приложения]([https://github.com/IvanRotov070409/StockInventory.exe](https://disk.yandex.ru/d/sgCRQnFYYX9weA])
+**Если у вас возникла ошибка при запуске приложения, то вы можете скачать приложение с другой [ссылке](https://disk.yandex.ru/d/sgCRQnFYYX9weA)**
+
+<img width="1444" height="353" alt="image" src="https://github.com/user-attachments/assets/350b76c0-721f-404f-a442-0148d09b21f5" />
